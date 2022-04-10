@@ -43,7 +43,7 @@ Element will stay with Vue 2.x
 For Vue 3.0, we recommend using [Element Plus](https://github.com/element-plus/element-plus) from the same team
 
 ## Links
-- Homepage and documentation
+- Homepage and documentation 哈哈哈
   - [International users](http://element.eleme.io/#/en-US)
   - [Chinese users](http://element-cn.eleme.io/#/zh-CN)
   - [Spanish users](http://element.eleme.io/#/es)
